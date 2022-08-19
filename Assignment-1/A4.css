@@ -1,0 +1,44 @@
+#head{
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    top:0%;
+    position: absolute;
+    width: 1000px;
+}
+#content1{
+    background-color:lightgoldenrodyellow;
+    top: 0%;
+    left: 400px;
+    position: absolute;
+    width:1000px;
+}
+#content{
+    background-color: lightpink;
+    left: 30px;
+    position: relative;
+    top:13.125px;
+    width: 1000px;
+    height: 200px;
+}
+
+#content2{
+    background-color: lightblue;
+    position: relative;
+    width:750px;
+    left: 200px;
+    top: 15%;
+    height: 50px;
+}
+#content3{
+    background-color: lightblue;
+    position: relative;
+    width:750px;
+    left: 100px;
+    top: 30%;
+    height: auto;
+}
+#foot{
+    background-color: lightblue;
+    position: relative;
+    width: 1000px;
+    top:0%;
